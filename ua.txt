@@ -1,2 +1,1 @@
 [FBAN/FB4A;FBAV/30.0.0.2647;FBBV/58552255;[FBAN/FB4A;FBAV/232.0.0.35.115;FBBV/165032968;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/ASUS;FBBD/asus;FBPN/com.facebook.katana;FBDV/Zenfone Max Pro M1;FBSV/8.1;nullFBCA/armeabi-v7a:armeabi:;]
-eyyy
